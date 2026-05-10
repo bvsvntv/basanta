@@ -13,7 +13,7 @@ const greenish = pc.green;
 const info = {
   name: "Basanta Rai",
   about: "Software Developer",
-  github: "https://github.com/iambasantarai",
+  github: "https://github.com/bvsvntv",
   web: "https://www.basantarai.com.np",
 };
 
